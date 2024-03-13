@@ -2,12 +2,9 @@
 
 Code for Scriptable to get Key Statistics from Strava onto IOS Lockscreen
 
-
 ## 🖥️ Preview
 The Gauges offer a vivid snapshot of your distances covered in the past week across three key activities: Running, Cycling, and Swimming. Moreover, they aggregate and present your total training duration over the last seven days, giving you a concise and motivational overview of your fitness journey.
 <img src="demo.png" alt="Strava Widgets Preview" width="200"/>
-
-
 
 ## 📲 Installation
 After you have successfully registered for the Strava API and obtained your `client_id` and `client_secret`, you can install the widgets by following these steps:
@@ -43,3 +40,7 @@ If you have any questions or suggestions, feel free to open an issue or contact 
 
 ## 📋 To-Do
 - [ ] Save energy by only updating the data once a day (maybe midnight)
+
+Thanks to
+https://github.com/dwd0tcom/strava-scriptable-widget
+
